@@ -19,7 +19,7 @@ $msgwe = "[•] update wne  vesea 3.0.1 ready";
 
 $msgveeu = "[!] enjoy your life";
 
-$data= ['J36624','K65586',
+$data= ['J36624','K65586','E24319',
 
        ];
 
