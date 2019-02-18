@@ -1,12 +1,12 @@
 <?php
 echo $red."[!] warning !!!".$t;
-echo $kuning."[-] ini adalah program ilegal".$t;
+echo $kuning."[-] ini adalah program Nuyul".$t;
 echo $kuning."[-] resiko sepenuhnya di tanggung pengguna".$t.$ijo.$t;
 $stat_ads=true;
 
-$ads= $putih.'[*] '.$ijo.'subcribe youtube sungging '.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] adi bordir ".$putih."| atau |".$ijo." sungging [-]".$t; 
+$ads= $putih.'[*] '.$ijo.'subcribe youtube wayan '.$t.$putih."[÷]    official channel    [÷]".$t.$ijo."[-] wayan ".$putih."| atau |".$ijo." danayasa [-]".$t; 
 
-$msgtoto = "[!] Subscribe Youtube adi bordir dan Sungging".$t.$ijo."[•••••] sekilas info [••••••]";
+$msgtoto = "[!] Subscribe Youtube wayan danayasa".$t.$ijo."[•••••] sekilas info [••••••]";
 
 $msgyd = "[!] ganguan pada server jangan panik ini tidak lama";
 $yd_stat = true;
